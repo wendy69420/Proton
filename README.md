@@ -118,7 +118,6 @@ Wendy - *Head Developer* - **[GitHub](https://github.com/wendy69420)**
 **Team:**
 <div align="center">
   <a href="https://discord.com/invite/pGWzAMkpsg">
-   <a href="https://discord.com/invite/dDwTj9xFgM">
     <img src="https://discordapp.com/api/guilds/699587669059174461/widget.png?style=banner2">
   </a>
 </div>
