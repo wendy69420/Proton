@@ -44,7 +44,7 @@
   <a href="#credits">Credits</a>
 </p>
 
-## 🔗 [Invite the Public Bot (Olympus) by clicking here!](https://discord.com/oauth2/authorize?client_id=1144179659735572640&permissions=2113268958&scope=bot)
+## 🔗 [Invite the Public Bot (Olympus) by clicking here!](https://discord.com/api/oauth2/authorize?client_id=1344231302374625340&permissions=8&scope=bot%20applications.commands)
 
 ## About
 
