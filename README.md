@@ -2,7 +2,7 @@
  <br>
   <a href="https://github.com/sonujana26"><img src="https://cdn.discordapp.com/avatars/1144179659735572640/a_8d3bbc050480bc9157fe71c9334d8213.png?size=128"></a>
   <br>
-  Olympus the Ultimate Discord Bot
+  Proton the Ultimate Discord Bot
   <br>
 </h1>
 
@@ -113,11 +113,12 @@ Coming Soon
 
 ## Credits
 **Author:**  
-Sonu Jana - *Head Developer* - **[GitHub](https://github.com/sonujana26)**
+Wendy - *Head Developer* - **[GitHub](https://github.com/wendy69420)**
 
 **Team:**
 <div align="center">
-  <a href="https://discord.com/invite/odx">
+  <a href="https://discord.com/invite/pGWzAMkpsg">
+   <a href="https://discord.com/invite/dDwTj9xFgM">
     <img src="https://discordapp.com/api/guilds/699587669059174461/widget.png?style=banner2">
   </a>
 </div>
