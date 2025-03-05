@@ -1,0 +1,29 @@
+**Terms of Service for Proton**
+
+By using Proton (the "Bot"), you agree to the following terms:
+
+1. **Acceptance of Terms**: By adding or using the Bot, you agree to comply with these Terms of Service (ToS) and Discord's Terms of Service (https://discord.com/terms).
+
+2. **Proper Use**: You agree to use the Bot for its intended purposes only. Misuse, including but not limited to spamming, exploiting bugs, or violating Discord's ToS, is prohibited.
+
+3. **Prohibited Activities**: You may not use the Bot to:
+   - Send unsolicited messages (DMs or otherwise).
+   - Promote illegal, harmful, or abusive content.
+   - Harass, threaten, or discriminate against others.
+   - Attempt to disrupt or overload the Bot's functionality.
+
+4. **Data Usage**: The Bot may collect and store user data (e.g., user IDs, server IDs) for functionality purposes. Data will not be shared with third parties unless required by law.
+
+5. **Liability**: The Bot is provided "as is." The developers are not liable for any damages, losses, or issues arising from the use of the Bot.
+
+6. **Changes to the Bot**: The Bot's features, functionality, or ToS may change at any time without prior notice.
+
+7. **Termination**: The developers reserve the right to block or restrict access to the Bot for any user or server violating these terms.
+
+8. **Compliance with Discord's ToS**: You must comply with Discord's ToS at all times while using the Bot. Any violations of Discord's ToS may result in termination of access to the Bot.
+
+9. **Contact**: For questions or concerns, contact aitareodas4@gmail.com.
+
+By using the Bot, you acknowledge that you have read, understood, and agreed to these terms.
+
+Last Updated: October 26, 2023
