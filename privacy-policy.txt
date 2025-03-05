@@ -1,0 +1,32 @@
+**Privacy Policy for Proton**
+
+This Privacy Policy outlines how Proton (the "Bot") collects, uses, and protects your data. By using the Bot, you agree to the terms outlined below.
+
+1. **Data Collection**: The Bot may collect and store the following data:
+   - User IDs, server IDs, and channel IDs for functionality purposes.
+   - Data provided by users through commands or interactions (e.g., preferences, settings).
+
+2. **Purpose of Data**: Collected data is used solely for:
+   - Providing and improving the Bot's functionality.
+   - Personalizing user experience (e.g., saving preferences).
+   - Ensuring compliance with Discord's Terms of Service.
+
+3. **Data Storage**: Data is stored securely and is only accessible to the Bot's developers. No sensitive information (e.g., passwords, payment details) is collected.
+
+4. **Data Sharing**: Your data will not be shared with third parties unless required by law or necessary to comply with legal obligations.
+
+5. **User Rights**: You have the right to:
+   - Request access to your stored data.
+   - Request deletion of your data by contacting aitareodas4@gmail.com.
+
+6. **Data Retention**: Data is retained as long as necessary for the Bot's functionality. Inactive data may be deleted periodically.
+
+7. **Security**: We take reasonable measures to protect your data from unauthorized access, misuse, or loss. However, no system is 100% secure, and we cannot guarantee absolute security.
+
+8. **Changes to Policy**: This Privacy Policy may be updated at any time. Continued use of the Bot constitutes acceptance of the updated policy.
+
+9. **Contact**: For questions or concerns about this Privacy Policy, contact aitareodas4@gmail.com.
+
+By using Proton, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
+
+Last Updated: October 26, 2023
